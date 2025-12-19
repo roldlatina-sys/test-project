@@ -1,0 +1,10 @@
+[
+  { "code": "US", "name": "United States" },
+  { "code": "CA", "name": "Canada" },
+  { "code": "JP", "name": "Japan" },
+  { "code": "PH", "name": "Philippines" },
+  { "code": "GB", "name": "United Kingdom" },
+  { "code": "FR", "name": "France" },
+  { "code": "DE", "name": "Germany" },
+  { "code": "AU", "name": "Australia" }
+]

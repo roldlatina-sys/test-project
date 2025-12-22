@@ -31,20 +31,12 @@ Build a cascading multi-select filtering interface for countries and cities, alo
 - If a selected country is removed:
   - Any cities belonging to that country should automatically be removed from the city selection.
 
-#### Table Search
-
-- Add a separate search input above the table.
-- This search should:
-  - Filter the rows displayed in the table in real time.
-  - Match against any column/property in the table (e.g. country name, city name, type, category, specialty).
-  - Be case-insensitive.
 
 ### Data Table Behavior
 
 - The table should update dynamically based on:
   - Selected countries
   - Selected cities
-  - The table search input
 - If no country is selected, the table should show no rows.
 
 ## Data Structure
